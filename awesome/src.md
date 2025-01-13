@@ -3,23 +3,23 @@
 ## A
 
 * 爱奇艺安全应急响应中心 (71 SRC): [https://security.iqiyi.com/](https://security.iqiyi.com/)
-  * [通告列表](https://security.iqiyi.com/#notices)
-  * [基本规则](https://security.iqiyi.com/#noticedetail/183)
+  * [Announcement](https://security.iqiyi.com/#notices)
+  * [Standard](https://security.iqiyi.com/#noticedetail/183)
 
 ## B
 
 * Bugcrowd: [https://bugcrowd.com/engagements](https://bugcrowd.com/engagements)
 * 百度安全应急响应中心 (BSRC): [https://bsrc.baidu.com/](https://bsrc.baidu.com/)
-  * [通告列表](https://bsrc.baidu.com/v2/#/announce/list)
-  * [基本规则](https://bj.bcebos.com/bsrc-public/202406131432008d449588c37f7012.pdf)
+  * [Announcement](https://bsrc.baidu.com/v2/#/announce/list?language=zh)
+  * [Standard](https://bj.bcebos.com/bsrc-public/202406131432008d449588c37f7012.pdf)
 * 补天漏洞响应平台: [https://www.butian.net/Reward/plan/2](https://www.butian.net/Reward/plan/2)
 * 哔哩哔哩安全响应中心 (BILISRC): [https://security.bilibili.com/](https://security.bilibili.com/)
-  * [通告列表](https://security.bilibili.com/announcement/?price=0)
-  * [基本规则](https://security.bilibili.com/announcement/19/)
+  * [Announcement](https://security.bilibili.com/announcement/?price=0)
+  * [Standard](https://security.bilibili.com/announcement/19/)
 
 ## D
 
-* **滴滴出行安全响应中心:** [https://sec.didichuxing.com/](https://sec.didichuxing.com/)
+* 滴滴出行安全响应中心: [https://sec.didichuxing.com/](https://sec.didichuxing.com/)
 
 ## H
 
@@ -53,7 +53,8 @@
 ## T
 
 * 腾讯安全应急响应中心 (TSRC): [https://security.tencent.com/](https://security.tencent.com/)
-  * [基本规则](https://security.tencent.com/uploadimg_dir/other/TSRC.pdf?v=3.2)
+  * [Standard](https://security.tencent.com/uploadimg_dir/other/TSRC.pdf?v=3.2)
+  * [Reporting](https://security.tencent.com/index.php/report/add)
 
 ## X
 
@@ -66,6 +67,6 @@
 ## Z
 
 * 字节跳动安全响应中心: [https://src.bytedance.com/](https://src.bytedance.com/)
-  * [通告列表](https://src.bytedance.com/announcement)
-  * [基本规则](https://q2a1fk6o03.feishu.cn/docx/WPOHdeVdLoJgPfx25VmcfVJxnde)
-  * [排除范围](https://q2a1fk6o03.feishu.cn/docx/A0LWdFJnook5FfxFV8FceiKDn2c)
+  * [Announcement](https://src.bytedance.com/announcement)
+  * [Standard](https://q2a1fk6o03.feishu.cn/docx/WPOHdeVdLoJgPfx25VmcfVJxnde)
+    * [No-collection](https://q2a1fk6o03.feishu.cn/docx/A0LWdFJnook5FfxFV8FceiKDn2c)
