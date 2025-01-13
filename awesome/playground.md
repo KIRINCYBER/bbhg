@@ -1,6 +1,2 @@
----
-description: 'Last validated: N/A'
----
-
-# Playground
+# Playgrounds
 

@@ -4,28 +4,28 @@
 
 ## I. Reconnaissance
 
-* [Multipurpose resources](../reconnaissance/multipurpose-resources.md)
-* [Organization](../reconnaissance/organizations.md)
+* [Multipurpose resources](../recon/multipurpose-resources.md)
+* [Organization](../recon/organizations.md)
   * Analyze business and products
   * Mapping corporate structure
-* [Main domains](../reconnaissance/main-domains.md)
+* [Main domains](../recon/main-domains.md)
   * Gathering
   * Analysis
-* [Subdomains](../reconnaissance/subdomains.md)
+* [Subdomains](../recon/subdomains.md)
   * Preparations
   * Enumeration
   * Processing
   * Recursive
-* [Port and services](../assessment/port/)
+* [Port and services](../exploit/port/)
 
 ## II. Assessment
 
-* [Port](../assessment/port/)
-* [XSS](../assessment/xss.md)
+* [Port](../exploit/port/)
+* [XSS](../exploit/xss.md)
 
 ## A. Awesome Bugbounty
 
 * [SRC (Security Response Center)](../awesome/src.md)
-* [Tool](../awesome/bug-bounty-tools.md)
+* [Tool](../awesome/tools.md)
 * [Playground](../awesome/playground.md)
-* [Awesomeness](../awesome/awesome-awesomeness.md)
+* [Awesomeness](../awesome/awesomeness.md)
