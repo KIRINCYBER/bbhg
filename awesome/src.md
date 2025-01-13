@@ -53,8 +53,8 @@
 ## T
 
 * 腾讯安全应急响应中心 (TSRC): [https://security.tencent.com/](https://security.tencent.com/)
-  * [Standard](https://security.tencent.com/uploadimg_dir/other/TSRC.pdf?v=3.2)
-  * [Reporting](https://security.tencent.com/index.php/report/add)
+  * Standard: [https://security.tencent.com/uploadimg\_dir/other/TSRC.pdf?v=3.3](https://security.tencent.com/uploadimg_dir/other/TSRC.pdf?v=3.3)
+  * Reporting: [https://security.tencent.com/index.php/report/add](https://security.tencent.com/index.php/report/add)
 
 ## X
 
