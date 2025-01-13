@@ -1,0 +1,20 @@
+# Bug Bounty Checklists
+
+[Bug Bounty Hunter Guide](https://app.gitbook.com/o/EOc6S49gNX0wky8nj5si/s/dIwZJMkFd4Zza9vjuuJ7/) • [Contents](table-of-contents.md) • [**Checklists**](bug-bounty-checklists.md)
+
+## Recon phase
+
+### Large scope (Company & Organization)
+
+* [ ] 手动查看[**安全响应中心 (SRC)**](../awesome/src.md) 最新通告
+* [ ] 识别并收集目标[**主营业务及产品**](../reconnaissance/organizations.md#business-and-product)的基本信息
+  * 对于公司名称：反查目标公司[**组织架构**](../reconnaissance/organizations.md#corporate-structure)
+  * 对于域名资产：枚举其他关联的[**主域名**](../reconnaissance/main-domains.md)
+    * [ ] 通过企业名称 / ICP 备案号收集根域
+    * [ ] 通过企业名称搜索证书透明度日志
+    * [ ] 检查根域的内部 DNS 服务器
+    * [ ] 检查根域关的 DNS 证书透明度日志
+    * [ ] 通过证书通用名称反查根域
+  * 对于网站资产：转到 Web 应用程序评估
+  * 对于移动端资产：转到移动端应用程序评估
+  * 对于桌面端资产：转到桌面端应用程序评估
